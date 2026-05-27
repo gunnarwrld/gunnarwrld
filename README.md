@@ -1,24 +1,100 @@
-# ✨ About Me:
-👋 Hey, I’m Gunnar. Code enthusiast, self-proclaimed full-stack adventurer, and caffeinated computer science student at HKR, Sweden!<br>🌍 I build web apps by mixing front-end hype, backend magic, and a daily dose of troubleshooting.<br><br>Tech Stack: React, Node.js, JavaScript/TypeScript, Python, SQL, HTML/CSS, Flask, MySQL Workbench. If it has an API, I’ll probably poke it lmao.<br><br>Functional Obsessions: RESTful APIs, database diagrams, network chat, and tons of one-liner refactors.<br><br>Current Side Quests: Learning about network security, cloud platforms (AWS/Azure), and how to optimize DB queries faster than I can drink an energy drink.<br><br>⚡ Why you'll find me in commit history:<br><br>Always iterating for cleaner, faster, and more readable code.<br><br>Bringing user-first vibes to both design sprints and hacky scripts.<br><br>Collaborating in Agile teams, but never afraid of the solo late-night breakthrough.<br><br>🌐 Languages I break (and sometimes fix lol) things in:<br>English, Spanish, Portuguese (and, on occasion, SQL lol).<br><br>📈 Bonus round: Certified digital marketing nerd (SEO, content strategy, analytics). I care about great code, and that people actually find and use the stuff I build.<br><br>🚀 Goal: Land a software engineering internship where tech makes life better, code quality matters, and I get to learn something new every sprint.<br><br>If you want to chat code, collab, or pitch me an internship, DM or fork away. I’m always up for a challenge.<br>Portfolio and caffeine stats at gunnarwrld.com.<br>
+# Hey, I'm Gunnar 👋
 
+Computer Science student at Högskolan Kristianstad (HKR), Sweden, with a focus on backend engineering.
+I build typed REST APIs, design relational data models, and ship full-stack web applications — always in TypeScript, always with production habits in mind.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/484878595865706515) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gunnarwrld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunnararias) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/gunnarwrld) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ariasgunnar@gmail.com) 
+Currently seeking a **software engineering internship** where backend architecture, data modelling, and code quality matter.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gunnarwrld&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gunnarwrld&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunnarwrld&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gunnarwrld&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gunnarwrld&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+[![Portfolio](https://img.shields.io/badge/gunnarwrld.com-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://gunnarwrld.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunnararias)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariasgunnar@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gunnarwrld&icon=1&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+| Project | Stack | Links |
+|---|---|---|
+| **HKIF Sports Platform** — Sports union platform with 4-tier RBAC, JWT auth, Prisma + PostgreSQL, and Vitest + Supertest integration tests | Express 5 · TypeScript · Prisma ORM · PostgreSQL · JWT · bcryptjs · Railway | [Live](https://hkif-web.vercel.app) · [Repo](https://github.com/jasminerezai/hkif-web) |
+| **FinanceTracker** — Multi-currency personal finance PWA with Stripe billing, Supabase RLS policies, and Groq AI spending insights | React · TypeScript · Supabase (PostgreSQL + Auth + Edge Functions) · Stripe · Groq AI · Zod | [Live](https://personal-finance-web-app-psi.vercel.app) · [Repo](https://github.com/gunnarwrld/personal-finance-web-app) |
+| **Global Net Worth Tracker** — Full-stack finance dashboard with multi-currency aggregation REST API | Express · Node.js · MongoDB · Mongoose · React | [Repo](https://github.com/gunnarwrld/lab01_fullstack) |
+| **AI Study Assistant** — Edge AI chat with real-time WebSocket, Durable Objects, and persistent sessions | Cloudflare Workers · Durable Objects · Llama 3.3 · Workers AI · SQLite | [Live](https://cf-ai-study-assistant.pages.dev) · [Repo](https://github.com/gunnarwrld/cf_ai_study_assistant) |
+| **Personal Portfolio** — Motion-first SPA with a server-validated contact form, per-IP rate limiting, and GitHub Actions CI | React · TypeScript · Framer Motion · Vercel Functions · Resend · Zod · Vitest + Playwright | [Live](https://gunnarwrld.com) · [Repo](https://github.com/gunnarwrld/PersonalPortfolio) |
+
+---
+
+## 🔐 Backend & Auth
+
+- **REST API design** — Router → Controller → Service layering with consistent `ApiResponse<T>` contracts and a typed `ApiError` class with static factory methods (`unauthorized`, `forbidden`, `notFound`, `conflict`)
+- **JWT authentication** — Bearer token verification with a live DB lookup on every request, ensuring tokens belonging to deleted or suspended accounts are invalidated within the token window
+- **Role-Based Access Control (RBAC)** — 4-tier privilege hierarchy (`MEMBER < LEADER < BOARD_MEMBER < ADMIN`) with both exact-role (`restrictTo`) and hierarchical (`restrictToMinRole`) Express middleware guards
+- **Password security** — bcryptjs hashing with appropriate salt rounds; passwords never stored or returned in plain text
+- **Input validation** — Zod schemas enforced on both client and server (double-validation pattern), with a dedicated `validators/` layer in Express apps
+- **Typed error handling** — Custom `asyncHandler` wrapper eliminates try/catch boilerplate across all route controllers; global `errorHandler` middleware formats every error response consistently
+- **ORM & migrations** — Prisma with PostgreSQL: typed schema, enum-driven models, explicit relation definitions, `@@unique` constraints, `@@index` annotations for query performance, and versioned migration history
+- **Supabase auth & RLS** — Row-Level Security policies for user-scoped data isolation, enforced at the database layer independent of application logic
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Backend & APIs**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & ORMs**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+**Testing**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+**Cloud & DevOps**
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=gunnarwrld&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=gunnarwrld&theme=gruvbox&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunnarwrld&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🌐 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunnararias)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/gunnarwrld)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gunnarwrld)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ariasgunnar@gmail.com)
+
+[![](https://visitcount.itsvg.in/api?id=gunnarwrld&icon=1&color=7)](https://visitcount.itsvg.in)
