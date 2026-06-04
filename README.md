@@ -3,6 +3,8 @@
 Computer Science student at Högskolan Kristianstad (HKR), Sweden, with a focus on backend engineering.
 I build typed REST APIs, design relational data models, and ship full-stack web applications, always in TypeScript, always with production habits in mind.
 
+Recently I've shipped a sports activity platform with RBAC on Express and PostgreSQL, a personal finance tracker with Stripe billing on Supabase, and an AI study assistant on Cloudflare Workers.
+
 Currently seeking a **software engineering internship** where backend architecture, data modelling, and code quality matter.
 
 [![Portfolio](https://img.shields.io/badge/gunnarwrld.com-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://gunnarwrld.com)
@@ -15,10 +17,18 @@ Currently seeking a **software engineering internship** where backend architectu
 
 | Project | Stack | Links |
 |---|---|---|
-| **HKIF Sports Platform** | Sports union platform with 4-tier RBAC, JWT auth, Prisma + PostgreSQL, and Vitest + Supertest integration tests. Express 5 · TypeScript · Prisma ORM · PostgreSQL · JWT · bcryptjs · Railway | [Live](https://hkif-web.vercel.app) · [Repo](https://github.com/jasminerezai/hkif-web) |
-| **FinanceTracker** | Multi-currency personal finance PWA with Stripe billing, Supabase RLS policies, and Groq AI spending insights. React · TypeScript · Supabase (PostgreSQL + Auth + Edge Functions) · Stripe · Groq AI · Zod | [Live](https://personal-finance-web-app-psi.vercel.app) · [Repo](https://github.com/gunnarwrld/personal-finance-web-app) |
-| **AI Study Assistant** | Edge AI chat with real-time WebSocket, Durable Objects, and persistent sessions per user. Cloudflare Workers · Durable Objects · Llama 3.3 · Workers AI · SQLite | [Live](https://cf-ai-study-assistant.pages.dev) · [Repo](https://github.com/gunnarwrld/cf_ai_study_assistant) |
-| **Personal Portfolio** | Motion-first SPA with a server-validated contact form, per-IP rate limiting, and GitHub Actions CI. React · TypeScript · Framer Motion · Vercel Functions · Resend · Zod · Vitest + Playwright | [Live](https://gunnarwrld.com) · [Repo](https://github.com/gunnarwrld/PersonalPortfolio) |
+| **HKIF Sports Platform** | Built the backend for a university sports union: 4-tier RBAC, JWT auth, Prisma + PostgreSQL, and Vitest + Supertest integration tests. Express 5 · TypeScript · Prisma ORM · PostgreSQL · JWT · bcryptjs · Railway | [Live](https://hkif-web.vercel.app) · [Repo](https://github.com/jasminerezai/hkif-web) |
+| **FinanceTracker** | Built a multi-currency personal finance PWA with Stripe billing, Supabase RLS policies, and Groq AI spending insights. React · TypeScript · Supabase (PostgreSQL + Auth + Edge Functions) · Stripe · Groq AI · Zod | [Live](https://personal-finance-web-app-psi.vercel.app) · [Repo](https://github.com/gunnarwrld/personal-finance-web-app) |
+| **AI Study Assistant** | Built an edge AI chat system with real-time WebSocket, Durable Objects, and persistent sessions per user. Cloudflare Workers · Durable Objects · Llama 3.3 · Workers AI · SQLite | [Live](https://cf-ai-study-assistant.pages.dev) · [Repo](https://github.com/gunnarwrld/cf_ai_study_assistant) |
+| **Personal Portfolio** | Built a motion-first SPA with a server-validated contact form, per-IP rate limiting, and GitHub Actions CI. React · TypeScript · Framer Motion · Vercel Functions · Resend · Zod · Vitest + Playwright | [Live](https://gunnarwrld.com) · [Repo](https://github.com/gunnarwrld/PersonalPortfolio) |
+
+---
+
+## 🛠 What I'm building now
+
+- Adding Redis caching and BullMQ job queues to Node backends
+- Exploring multi-tenant SaaS patterns with Prisma middleware and row-level isolation
+- Writing deeper integration test suites: auth middleware, role guards, and error boundary coverage
 
 ---
 
@@ -30,8 +40,10 @@ Currently seeking a **software engineering internship** where backend architectu
 - **Password security:** bcryptjs hashing with appropriate salt rounds; passwords never stored or returned in plain text
 - **Input validation:** Zod schemas enforced on both client and server (double-validation pattern), with a dedicated `validators/` layer in Express apps
 - **Typed error handling:** Custom `asyncHandler` wrapper eliminates try/catch boilerplate across all route controllers; global `errorHandler` middleware formats every error response consistently
+- **Structured logging:** Per-request correlation IDs and clear error categories surfaced in service logs for faster debugging
 - **ORM and migrations:** Prisma with PostgreSQL: typed schema, enum-driven models, explicit relation definitions, `@@unique` constraints, `@@index` annotations for query performance, and versioned migration history
 - **Supabase auth and RLS:** Row-Level Security policies for user-scoped data isolation, enforced at the database layer independent of application logic
+- **Integration testing:** Protected routes, role-restricted actions, and JWT expiry flows covered with Vitest + Supertest; shared setup/teardown helpers keep test suites maintainable
 
 ---
 
@@ -95,8 +107,8 @@ Currently seeking a **software engineering internship** where backend architectu
 ## 🌐 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunnararias)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ariasgunnar@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/gunnarwrld)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gunnarwrld)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ariasgunnar@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=gunnarwrld&icon=1&color=7)](https://visitcount.itsvg.in)
